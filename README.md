@@ -1,6 +1,6 @@
 # 🍽️ My Recipe Finder  
 
-**My Recipe Finder** is a simple web application and my first project that allows users to search for recipes using an API. It provides recipe details such as ingredients, instructions, and images.  
+**My Recipe Finder** is a simple web application and  first project that allows users to search for recipes using an API. It provides recipe details such as ingredients, instructions, and images.  
 
 ## 🚀 Features  
 
